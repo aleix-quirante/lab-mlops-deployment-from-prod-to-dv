@@ -15,3 +15,6 @@ for row in a:
         if number >= 0.5:
             flat_list.append(number)
 print(flat_list)
+
+git checkout -b feature-mlops
+git push -u origin feature-mlops
